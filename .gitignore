@@ -1,2 +1,4 @@
 
-scrape_url/target/debug
+scrape_url/target/*
+minigrep/target/*
+guessing_game/target/*
