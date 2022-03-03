@@ -1,0 +1,12 @@
+  PID TTY           TIME CMD
+63231 ttys000    0:00.15 -zsh
+63900 ttys000    1:13.80 npm start  
+63901 ttys000    3:55.89 node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/.bin/react-native start
+63935 ttys000    0:21.12 /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/metro/node_modules/jest-worker/build/workers/processChild.js
+63936 ttys000    0:20.19 /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/metro/node_modules/jest-worker/build/workers/processChild.js
+63937 ttys000    0:21.54 /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/metro/node_modules/jest-worker/build/workers/processChild.js
+63938 ttys000    0:20.22 /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/metro/node_modules/jest-worker/build/workers/processChild.js
+63939 ttys000    0:19.68 /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/metro/node_modules/jest-worker/build/workers/processChild.js
+63940 ttys000    0:21.52 /opt/homebrew/Cellar/node/17.5.0/bin/node /Users/zhangjiantao/Documents/chehejia/app/android/rn/node_modules/metro/node_modules/jest-worker/build/workers/processChild.js
+ 3954 ttys001    0:00.30 -zsh
+22335 ttys002    0:00.49 /bin/zsh -l
